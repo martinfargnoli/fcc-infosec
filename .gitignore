@@ -1,4 +1,4 @@
-/stockchecker/node_modules/
+/stockchecker/node_modules
 /stockchecker/.env
-/messageboard/node_modules/
-/messageboard/.env
+/message-board/node_modules
+/message-board/.env
