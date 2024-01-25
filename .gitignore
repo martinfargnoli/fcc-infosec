@@ -2,3 +2,5 @@
 /stockchecker/.env
 /message-board/node_modules
 /message-board/.env
+/port-scanner/.cache
+/port-scanner/.upm
