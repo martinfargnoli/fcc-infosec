@@ -4,3 +4,5 @@
 /message-board/.env
 /port-scanner/.cache
 /port-scanner/.upm
+/sha1-password-cracker/.cache
+/sha1-password-cracker/.upm
